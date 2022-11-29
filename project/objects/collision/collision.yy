@@ -1,10 +1,14 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "collision",
   "spriteId": {
     "name": "s_collision_red",
     "path": "sprites/s_collision_red/s_collision_red.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -27,8 +31,4 @@
     "name": "Game",
     "path": "folders/Game.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "collision",
-  "tags": [],
-  "resourceType": "GMObject",
 }
